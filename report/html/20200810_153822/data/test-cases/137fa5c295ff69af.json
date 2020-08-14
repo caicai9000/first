@@ -1,0 +1,55 @@
+{
+  "uid" : "137fa5c295ff69af",
+  "name" : "test_geteventlist",
+  "fullName" : "cases.test_geteventlist#test_geteventlist",
+  "historyId" : "8356202d964b060902b8c1cc935ebf86",
+  "time" : {
+    "start" : 1597045103369,
+    "stop" : 1597045103465,
+    "duration" : 96
+  },
+  "description" : "\n    查询所有活动\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>查询所有活动\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_geteventlist"
+  }, {
+    "name" : "host",
+    "value" : "caicaideMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "16957-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_geteventlist"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "137fa5c295ff69af.json",
+  "parameterValues" : [ ]
+}

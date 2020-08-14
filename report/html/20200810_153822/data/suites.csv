@@ -1,0 +1,17 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Aug 10 15:38:23 CST 2020","Mon Aug 10 15:38:23 CST 2020","159","cases","test_login","","","","test_login02","
+    密码错误
+    :return:
+    "
+"passed","Mon Aug 10 15:38:23 CST 2020","Mon Aug 10 15:38:23 CST 2020","330","cases","test_login","","","","test_login01","
+    正确登录
+    :return:
+    "
+"passed","Mon Aug 10 15:38:23 CST 2020","Mon Aug 10 15:38:23 CST 2020","96","cases","test_geteventlist","","","","test_geteventlist","
+    查询所有活动
+    :return:
+    "
+"passed","Mon Aug 10 15:38:23 CST 2020","Mon Aug 10 15:38:24 CST 2020","163","cases","test_order","","","","test_order","
+    预定活动
+    :return:
+    "

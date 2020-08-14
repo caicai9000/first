@@ -1,0 +1,55 @@
+{
+  "uid" : "830e641d35d2f3a",
+  "name" : "test_order",
+  "fullName" : "cases.test_order#test_order",
+  "historyId" : "c0b5c567634f25d67eff40b9abd0dade",
+  "time" : {
+    "start" : 1597044764171,
+    "stop" : 1597044764215,
+    "duration" : 44
+  },
+  "description" : "\n    预定活动\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>预定活动\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_order"
+  }, {
+    "name" : "host",
+    "value" : "caicaideMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "16892-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "830e641d35d2f3a.json",
+  "parameterValues" : [ ]
+}

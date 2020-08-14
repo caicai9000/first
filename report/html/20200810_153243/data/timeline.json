@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "caicaideMacBook-Air.local",
+    "children" : [ {
+      "name" : "16892-MainThread",
+      "children" : [ {
+        "name" : "test_geteventlist",
+        "uid" : "73d722b5e8d7df44",
+        "parentUid" : "0b62e74705a5cc0659bc185961e5e109",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597044763946,
+          "stop" : 1597044763997,
+          "duration" : 51
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login01",
+        "uid" : "e30a5089123f077b",
+        "parentUid" : "0b62e74705a5cc0659bc185961e5e109",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597044764001,
+          "stop" : 1597044764136,
+          "duration" : 135
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_order",
+        "uid" : "830e641d35d2f3a",
+        "parentUid" : "0b62e74705a5cc0659bc185961e5e109",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597044764171,
+          "stop" : 1597044764215,
+          "duration" : 44
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login02",
+        "uid" : "e452d18901925976",
+        "parentUid" : "0b62e74705a5cc0659bc185961e5e109",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597044764140,
+          "stop" : 1597044764167,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0b62e74705a5cc0659bc185961e5e109"
+    } ],
+    "uid" : "5599ea9b2748413b40d5a320adfd4e27"
+  } ]
+}
